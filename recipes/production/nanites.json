@@ -7,7 +7,7 @@
     "skill_used": "fabrication",
     "skills_required" : [ "fabrication", 3 ],
     "difficulty": 0,
-    "time": 6000,
+    "time": "1 m",
     "reversible": false,
     "book_learn": [ [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
     "qualities": [
@@ -53,7 +53,7 @@
         [ "bio_nanites", 25]
       ],
       [
-        [ "nanite_power_cell", 14]
+        [ "nanite_power_cell", 4]
       ]
     ]
   },{
@@ -61,9 +61,9 @@
     "result": "bio_nanite_spawned",
     "skill_used": "fabrication",
     "difficulty": 0,
-    "time": 3000,
+    "time": "30 s",
     "components": [
-        [ [ "bio_nanites", 250 ] ],
+        [ [ "nanite_cluster", 150 ] ],
         [ [ "metal_tank", 1 ] ]
     ]
   },{
@@ -72,8 +72,8 @@
     "category": "CC_NANO",
     "subcategory": "CSC_NANO_NANITES",
     "skill_used": "fabrication",
-    "difficulty": 10,
-    "time": 600000,
+    "difficulty": 7,
+    "time": "40 m",
     "reversible": false,
     "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
     "tools" : [
@@ -84,22 +84,22 @@
     ],
     "components": [
       [
-        [ "3d_resin", 300]
+        [ "3d_resin", 30]
       ],
       [
-        [ "3d_resin_metal", 1500]
+        [ "3d_resin_metal", 150]
       ],
       [
-        [ "3d_resin_electronic", 300]
+        [ "3d_resin_electronic", 30]
       ],
       [
-        [ "gold_small", 300]
+        [ "gold_small", 30]
       ],
       [
-        [ "diamond", 3]
+        [ "diamond", 1]
       ],
       [
-        [ "nanite_power_cell", 12]
+        [ "nanite_power_cell", 4]
       ]
     ]
   },{
@@ -110,7 +110,7 @@
     "subcategory": "CSC_NANO_NANITES",
     "skill_used": "fabrication",
     "difficulty": 0,
-    "time": 10000,
+    "time": "1 m 40 s",
     "reversible": false,
     "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
     "flags": [ "BLIND_EASY" ],
@@ -119,13 +119,13 @@
     ],
     "components": [
       [
-        [ "3d_resin", 100]
+        [ "3d_resin", 10]
       ],
       [
-        [ "3d_resin_metal", 500]
+        [ "3d_resin_metal", 50]
       ],
       [
-        [ "3d_resin_electronic", 150]
+        [ "3d_resin_electronic", 15]
       ],
       [
         [ "gold_small", 75]
@@ -149,7 +149,7 @@
     "subcategory": "CSC_NANO_NANITES",
     "skill_used": "fabrication",
     "difficulty": 0,
-    "time": 1000,
+    "time": "10 s",
     "reversible": false,
     "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
     "flags": [ "BLIND_EASY" ],
@@ -184,7 +184,7 @@
     "subcategory": "CSC_NANO_NANITES",
     "skill_used": "fabrication",
     "difficulty": 0,
-    "time": 100,
+    "time": "1 s",
     "reversible": false,
     "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
     "flags": [ "BLIND_EASY" ],
@@ -216,7 +216,7 @@
     "subcategory": "CSC_NANO_NANITES",
     "skill_used": "fabrication",
     "difficulty": 0,
-    "time": 100,
+    "time": "1 s",
     "reversible": false,
     "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
     "flags": [ "BLIND_EASY" ],

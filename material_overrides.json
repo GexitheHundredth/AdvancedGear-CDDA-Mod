@@ -1,11 +1,12 @@
 [
   {
     "type": "material",
-    "ident": "superalloy",
+    "id": "superalloy",
     "name": "Superalloy",
     "density": 26,
     "bash_resist": 6,
     "cut_resist": 6,
+    "bullet_resist": 5,
     "acid_resist": 5,
     "fire_resist": 3,
     "elec_resist": 0,
