@@ -1,6 +1,8 @@
 [
   {
     "type": "AMMO",
+    "id": "3d_resin",
+    "category": "ammo",
     "price": 50,
     "price_postapoc": 50,
     "name": { "str": "feedstock (dummy)" },
