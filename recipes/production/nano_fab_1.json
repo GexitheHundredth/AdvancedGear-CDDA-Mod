@@ -16,7 +16,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 7]
+        [ "3d_resin_plastic", 7]
       ]
     ]
   },{
@@ -137,7 +137,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 80]
+        [ "3d_resin_plastic", 80]
       ]
     ]
   },{
@@ -203,7 +203,7 @@
         [ "3d_resin_metal", 60]
       ],
       [
-        [ "3d_resin", 3]
+        [ "3d_resin_plastic", 3]
       ]
     ]
   },{
@@ -224,7 +224,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 8]
+        [ "3d_resin_plastic", 8]
       ]
     ]
   },{
@@ -245,7 +245,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 2]
+        [ "3d_resin_plastic", 2]
       ]
     ]
   },{
@@ -266,7 +266,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 20]
+        [ "3d_resin_plastic", 20]
       ]
     ]
   },{
@@ -287,7 +287,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 159]
+        [ "3d_resin_plastic", 159]
       ]
     ]
   },{
@@ -329,7 +329,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 680]
+        [ "3d_resin_plastic", 680]
       ]
     ]
   },{
@@ -371,7 +371,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 54]
+        [ "3d_resin_plastic", 54]
       ]
     ]
   },{
@@ -392,7 +392,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 61]
+        [ "3d_resin_plastic", 61]
       ]
     ]
   },{
@@ -833,7 +833,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 1]
+        [ "3d_resin_plastic", 1]
       ]
     ]
   },{
@@ -854,7 +854,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 4]
+        [ "3d_resin_plastic", 4]
       ]
     ]
   },{
@@ -875,7 +875,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 22]
+        [ "3d_resin_plastic", 22]
       ]
     ]
   },{
@@ -896,7 +896,7 @@
     ],
     "components": [
       [
-        [ "3d_resin", 108]
+        [ "3d_resin_plastic", 108]
       ]
     ]
   },{
@@ -1004,7 +1004,7 @@
         [ "3d_resin_metal", 30]
       ],
       [
-        [ "3d_resin", 83]
+        [ "3d_resin_plastic", 83]
       ]
     ]
   },{
@@ -1028,7 +1028,7 @@
         [ "3d_resin_metal", 60]
       ],
       [
-        [ "3d_resin", 167]
+        [ "3d_resin_plastic", 167]
       ]
     ]
   }

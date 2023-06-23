@@ -43,7 +43,7 @@
         ["3d_resin_metal", 80]
       ],
       [
-        ["3d_resin", 20]
+        ["3d_resin_plastic", 20]
       ]
     ]
   },{
@@ -148,7 +148,7 @@
         [ "3d_resin_metal", 192]
       ],
       [
-        [ "3d_resin", 95]
+        [ "3d_resin_plastic", 95]
       ],
       [
         ["plut_cell", 2],

@@ -20,7 +20,7 @@
     ]
   },{
     "type" : "recipe",
-    "result": "3d_resin",
+    "result": "3d_resin_plastic",
     "category": "CC_NANO",
     "subcategory": "CSC_NANO_OTHER",
     "skill_used": "fabrication",
@@ -74,7 +74,24 @@
     ]
   },{
     "type" : "recipe",
-    "result": "3d_resin",
+    "result": "3d_resin_carbon",
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": "1 m 40 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "components": [
+      [
+        [ "coal_lump", 25],
+        [ "charcoal", 95],
+        [ "splinter", 4],
+        [ "2x4", 1]
+      ]
+    ]
+  },{
+    "type" : "recipe",
+    "result": "3d_resin_plastic",
     "id_suffix": "_nano_1",
     "category": "CC_NANO",
     "subcategory": "CSC_NANO_OTHER",
@@ -166,6 +183,29 @@
         [ "pot_copper", 1]
       ]
     ]
+  },
+  {
+    "type" : "recipe",
+    "result": "3d_resin_carbon",
+    "id_suffix": "_nano_1",
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": "10 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "qualities": [
+      {"id":"NANO_FAB","level":1,"amount":1}
+    ],
+    "components": [
+      [
+        [ "coal_lump", 25],
+        [ "charcoal", 95],
+        [ "splinter", 4],
+        [ "2x4", 1]
+      ]
+    ]
   },{
     "type" : "recipe",
     "result": "nanite_power_cell",
@@ -197,7 +237,7 @@
         [ "3d_resin_electronic", 60]
       ],
       [
-        [ "3d_resin", 80]
+        [ "3d_resin_plastic", 80]
       ],
       [
         [ "3d_resin_metal", 150]

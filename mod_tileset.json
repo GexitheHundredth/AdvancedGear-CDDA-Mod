@@ -18,7 +18,7 @@
       {
         "file": "AdvancedGear_CDDA_Mod_normal.png",
         "tiles": [
-          { "id": "3d_resin", "fg": 1 },
+          { "id": "3d_resin_plastic", "fg": 1 },
           { "id": "metal_nanopowder", "fg": 2 },
           { "id": "nanosuit", "fg": 3 },
           { "id": "overlay_wielded_nanosuit", "fg": 3 },
