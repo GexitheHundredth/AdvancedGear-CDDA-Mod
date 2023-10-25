@@ -1,0 +1,300 @@
+[
+  {
+    "type": "recipe",
+    "result": "mealbar_1kg_full",
+    "charges": 7,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 100 ] ],
+      [ [ "foodstock_fat", 100 ] ],
+      [ [ "foodstock_veggy", 100 ] ],
+      [ [ "foodstock_fruit", 100 ] ],
+      [ [ "foodstock_spice", 100 ] ],
+      [ [ "foodstock_wheat", 100 ] ],
+      [ [ "foodstock_dairy", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_1kg_no_dairy",
+    "charges": 7,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [
+      [ [ "foodstock_meat", 100 ] ],
+      [ [ "foodstock_fat", 150 ] ],
+      [ [ "foodstock_veggy", 100 ] ],
+      [ [ "foodstock_fruit", 150 ] ],
+      [ [ "foodstock_spice", 105 ] ],
+      [ [ "foodstock_wheat", 120 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_1kg_no_wheat",
+    "charges": 7,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 115 ] ],
+      [ [ "foodstock_fat", 125] ],
+      [ [ "foodstock_veggy", 150 ] ],
+      [ [ "foodstock_fruit", 100 ] ],
+      [ [ "foodstock_spice", 110 ] ],
+      [ [ "foodstock_dairy", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_1kg_no_wheat_dairy",
+    "charges": 7,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 150 ] ],
+      [ [ "foodstock_fat", 150 ] ],
+      [ [ "foodstock_veggy", 150 ] ],
+      [ [ "foodstock_fruit", 150 ] ],
+      [ [ "foodstock_spice", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_1kg_vegetarian",
+    "charges": 5,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_veggy", 100 ] ],
+      [ [ "foodstock_fruit", 100 ] ],
+      [ [ "foodstock_spice", 100 ] ],
+      [ [ "foodstock_wheat", 100 ] ],
+      [ [ "foodstock_dairy", 100 ] ]
+
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_1kg_vegan",
+    "charges": 5,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_veggy", 150 ] ],
+      [ [ "foodstock_fruit", 150 ] ],
+      [ [ "foodstock_spice", 100 ] ],
+      [ [ "foodstock_wheat", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_1kg_carnivore",
+    "charges": 7,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 300 ] ],
+      [ [ "foodstock_fat", 300 ] ],
+      [ [ "foodstock_spice", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_half_kg_full",
+    "charges": 14,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 100 ] ],
+      [ [ "foodstock_fat", 100 ] ],
+      [ [ "foodstock_veggy", 100 ] ],
+      [ [ "foodstock_fruit", 100 ] ],
+      [ [ "foodstock_spice", 100 ] ],
+      [ [ "foodstock_wheat", 100 ] ],
+      [ [ "foodstock_dairy", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_half_kg_no_dairy",
+    "charges": 14,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [
+      [ [ "foodstock_meat", 100 ] ],
+      [ [ "foodstock_fat", 150 ] ],
+      [ [ "foodstock_veggy", 100 ] ],
+      [ [ "foodstock_fruit", 150 ] ],
+      [ [ "foodstock_spice", 105 ] ],
+      [ [ "foodstock_wheat", 120 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_half_kg_no_wheat",
+    "charges": 14,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 115 ] ],
+      [ [ "foodstock_fat", 125] ],
+      [ [ "foodstock_veggy", 150 ] ],
+      [ [ "foodstock_fruit", 100 ] ],
+      [ [ "foodstock_spice", 110 ] ],
+      [ [ "foodstock_dairy", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_half_kg_no_wheat_dairy",
+    "charges": 14,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 150 ] ],
+      [ [ "foodstock_fat", 150 ] ],
+      [ [ "foodstock_veggy", 150 ] ],
+      [ [ "foodstock_fruit", 150 ] ],
+      [ [ "foodstock_spice", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_half_kg_vegetarian",
+    "charges": 10,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_veggy", 100 ] ],
+      [ [ "foodstock_fruit", 100 ] ],
+      [ [ "foodstock_spice", 100 ] ],
+      [ [ "foodstock_wheat", 100 ] ],
+      [ [ "foodstock_dairy", 100 ] ]
+
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_half_kg_vegan",
+    "charges": 10,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_veggy", 150 ] ],
+      [ [ "foodstock_fruit", 150 ] ],
+      [ [ "foodstock_spice", 100 ] ],
+      [ [ "foodstock_wheat", 100 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "mealbar_half_kg_carnivore",
+    "charges": 14,
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "delete_flags": [ "BAD_TASTE" ],
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "100 s",
+    "book_learn": [ [ "ai_core", 1 ], [ "nanite_core_1", 1 ], [ "nanite_core_2", 1 ], [ "nanite_core_3", 1 ], [ "nanite_core_4", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "components": 
+    [ 
+      [ [ "foodstock_meat", 300 ] ],
+      [ [ "foodstock_fat", 300 ] ],
+      [ [ "foodstock_spice", 100 ] ]
+    ]
+  }
+]

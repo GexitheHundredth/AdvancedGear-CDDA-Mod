@@ -465,5 +465,30 @@
     "epower": -275,
     "location": "on_roof",
     "flags": [ "VISION", "CAMERA", "ENABLED_DRAINS_EPOWER" ]
+  },
+  {
+    "type": "vehicle_part",
+    "id": "nano_rotor",
+    "name": "nanotech thrusters",
+    "copy-from": "nanovp_fold",
+    "looks_like": "omnicam",
+    "symbol": "X",
+    "durability": 750,
+    "rotor_diameter": 33,
+    "description": "Advanced nanotech lift device, generates great amounts of thrust.",
+    "location": "on_roof",
+    "flags": [ "ROTOR" ]
+  },
+  {
+    "type": "vehicle_part",
+    "id": "nano_autopilot",
+    "name": "nanotech autopilot",
+    "copy-from": "nanovp_fold",
+    "symbol": "O",
+    "description": "Advanced nanotech autopilot, can follow simple commands.",
+    "location": "engine_block",
+    "item": "xl_nanite_ai",
+    "epower": -10,
+    "flags": [ "ENABLED_DRAINS_EPOWER", "AUTOPILOT" ]
   }
 ]
