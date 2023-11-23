@@ -1,0 +1,107 @@
+[
+  {
+    "type" : "recipe",
+    "result": "meat",
+    "id_suffix": "_nanoprint_food",
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "10 s",
+    "reversible": false,
+    "book_learn": [ [ "nanite_guide", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "qualities": [
+      {"id":"NANO_FAB","level":1,"amount":1}
+    ],
+    "components": [
+      [
+        [ "foodstock_meat", 30]
+      ]
+    ]
+  },
+  {
+    "type" : "recipe",
+    "result": "fat",
+    "id_suffix": "_nanoprint_food",
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "10 s",
+    "reversible": false,
+    "book_learn": [ [ "nanite_guide", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "qualities": [
+      {"id":"NANO_FAB","level":1,"amount":1}
+    ],
+    "components": [
+      [
+        [ "foodstock_fat", 22]
+      ]
+    ]
+  },
+  {
+    "type" : "recipe",
+    "result": "flour",
+    "id_suffix": "_nanoprint_food",
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "10 s",
+    "reversible": false,
+    "book_learn": [ [ "nanite_guide", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "qualities": [
+      {"id":"NANO_FAB","level":1,"amount":1}
+    ],
+    "components": [
+      [
+        [ "foodstock_wheat", 13]
+      ]
+    ]
+  },
+  {
+    "type" : "recipe",
+    "result": "milk",
+    "id_suffix": "_nanoprint_food",
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "10 s",
+    "reversible": false,
+    "book_learn": [ [ "nanite_guide", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "qualities": [
+      {"id":"NANO_FAB","level":1,"amount":1}
+    ],
+    "components": [
+      [
+        [ "foodstock_dairy", 25]
+      ]
+    ]
+  },
+  {
+    "type" : "recipe",
+    "result": "apple",
+    "id_suffix": "_nanoprint_food",
+    "category": "CC_NANO",
+    "subcategory": "CSC_NANO_COOKING",
+    "skill_used": "cooking",
+    "difficulty": 0,
+    "time": "10 s",
+    "reversible": false,
+    "book_learn": [ [ "nanite_guide", 1 ] ],
+    "flags": [ "BLIND_EASY" ],
+    "qualities": [
+      {"id":"NANO_FAB","level":1,"amount":1}
+    ],
+    "components": [
+      [
+        [ "foodstock_fruit", 30]
+      ]
+    ]
+  }
+]
